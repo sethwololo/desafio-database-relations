@@ -16,7 +16,6 @@ export default class CreateProduct1597631443215 implements MigrationInterface {
           {
             name: 'name',
             type: 'varchar',
-            isUnique: true,
           },
           {
             name: 'price',
